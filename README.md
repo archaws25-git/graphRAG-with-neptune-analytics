@@ -1,3 +1,5 @@
+What is a GraphRAG:
+
 LLMs are usually trained for a finite time-period on a (vast but) finite quantity of data. Oftentimes, the LLMs may not have access to the most up-to-date data or even data that is private to an organization. In such situations, to allow the LLM to answer the user’s query without hallucinations, a RAG (Retrieval Augmented Generation) approach is chosen. 
 Here the data is first chunked and then converted into vectors [aka embeddings]. When the user’s query comes in, it is also converted into a vector and then compared against the existing vectors as part of a semantic similarity search operation (example: using cosine similarity).
 The relevant document chunks that correspond to the vectors that match the user’s query are returned to the user after converting the embeddings to natural language. 
