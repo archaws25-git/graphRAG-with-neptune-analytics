@@ -32,10 +32,15 @@ GraphRAGs work best for complex domain specific queries (such as in the medical/
 References:
 
 [Build your first GraphRAG Powered Agent! (No Graph Expert Required) | Databases for AI](https://www.youtube.com/live/gv6zK265OUE?si=5wNNh55sCmoOZUGr)
+
 [Project GraphRAG - Microsoft Research](https://www.microsoft.com/en-us/research/project/graphrag/)
+
 [GitHub - microsoft/graphrag: A modular graph-based Retrieval-Augmented Generation (RAG) system](https://github.com/microsoft/graphrag)
-[Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation (RAG) Pipelines for Open Radio Access Networks (ORAN)]([url](https://arxiv.org/html/2507.03608v1))
+
 [VectorRAG vs GraphRAG: March 2025 Technical Challenges](https://www.falkordb.com/blog/vectorrag-vs-graphrag-technical-challenges-enterprise-ai-march25/)
+
+https://arxiv.org/html/2507.03608v1
+
 
 
 
